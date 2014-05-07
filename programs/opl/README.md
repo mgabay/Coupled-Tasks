@@ -1,10 +1,10 @@
-IDCT -- OPL Models
+IDCT - OPL Models
 ==================
-Various Integer programming models for the identical coupled-task scheduling
-problem.
+Various Integer programming models for the identical coupled-task
+scheduling problem.
 
 Models are implemented in OPL scripting language for CPLEX solver.
 
 Dependencies
 ------------
-IBM ILOG OPL, IBM ILOG CPLEX
+IBM ILOG OPL (Modeling language), CPLEX (MILP Solver)
