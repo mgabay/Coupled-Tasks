@@ -8,7 +8,7 @@ The code in this repository are related to some work on the identical
 coupled-tasks scheduling problem done during my master's and my PhD thesis.
 
 The code provided here is mostly research code written for my own usage
-and hence is poorly docummented and non-generic.
+and hence is poorly documented and non-generic.
 
 References
 ----------
